@@ -23,7 +23,7 @@ module.exports = {
   // https://github.com/neutrinojs/webpack-chain
   chainWebpack: config => {
     config.resolve.alias.set('@$', path.join(__dirname, 'src'));
-    config.resolve.alias.set('set-ui', path.join(__dirname, '../'));
+    config.resolve.alias.set('set-ui', path.join(__dirname, '../src'));
 
     // svg icon
     const svgRule = config.module.rule('svg');

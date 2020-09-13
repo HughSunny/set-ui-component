@@ -2,7 +2,7 @@
   "name": "set-ui-vue",
   "version": "1.0.9",
   "description": "light weight vue.js component library",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "dependencies": {
     "async-validator": "^3.0.4",
     "core-js": "2.6.9",
