@@ -1,11 +1,12 @@
 {
   "name": "set-ui-vue",
-  "version": "1.0.0",
-  "description": "another light weight vue.js component library",
-  "main": "lib/set-ui-vue.min.js",
+  "version": "1.0.9",
+  "description": "light weight vue.js component library",
+  "main": "lib/index.js",
   "dependencies": {
     "async-validator": "^3.0.4",
     "core-js": "2.6.9",
+    "element-ui": "^2.13.2",
     "webpack": "^4.39.2",
     "webpack-cli": "^3.3.7"
   },
@@ -63,15 +64,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arronKler/lime-ui.git"
+    "url": "git+https://github.com/HughSunny/set-ui-vue.git"
   },
   "keywords": [],
-  "author": "ArronKler <hugh.sxx@gmail.com>",
+  "author": "HughShi <hugh.sxx@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arronKler/lime-ui/issues"
+    "url": "https://github.com/HughSunny/set-ui-vue/issues"
   },
-  "homepage": "https://github.com/arronKler/lime-ui#readme",
+  "homepage": "https://github.com/HughSunny/set-ui-vue#readme",
   "peerDependencies": {
     "vue": "^2.5.2"
   },

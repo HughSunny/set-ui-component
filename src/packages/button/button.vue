@@ -1,5 +1,5 @@
 <template>
-  <button class="set-button" :class="{[`set-button-${type}`]: true}" type="button">
+  <button class="set-button" :class="{[`set-button-${type}`]: true}" type="button" >
     <slot></slot>
   </button>
 </template>

@@ -3,5 +3,6 @@
   "form": "packages/form/index.js",
   "form-item": "packages/form-item/index.js",
   "input": "packages/input/index.js",
-  "notice": "packages/notice/notice.js"
+  "notice": "packages/notice/notice.js",
+  "upload": "packages/upload/index.js"
 }
