@@ -271,7 +271,6 @@
       },
 
       uploadFile(params) {
-        debugger
         console.log('SetUpload  uploadFile => ', isFileRequestExist())
         if (isFileRequestExist()) {
           getFileRequest()(params.file).then(data => {

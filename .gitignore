@@ -1,2 +1,22 @@
+# mac
+.DS_STORE
+
+# IDEA
+.idea
+.vscode
+.history
+
 node_modules
-docs/.vuepress/dist
+
+*.log
+*.zip
+*.rar
+*.7z
+
+.eslintcache
+
+# project
+.tmp
+dist
+/lib
+/docs/.vuepress/dist
